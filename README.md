@@ -10,7 +10,7 @@ You can use it in development to track whether your app is responsive or is drop
 npm install react-lag-radar
 ```
 
-## Usage
+## Usage
 
 ```js
 import LagRadar from 'react-lag-radar';
