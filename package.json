@@ -1,0 +1,17 @@
+{
+  "name": "react-lag-radar",
+  "version": "1.0.0",
+  "description": "A radar that visualizes dropped frames and performance issues",
+  "main": "Radar.js",
+  "files": [
+    "Radar.js"
+  ],
+  "dependencies": {
+    "@gaearon/lag-radar": "^0.1.0"
+  },
+  "peerDependencies": {
+    "react": "*"
+  },
+  "author": "@mobz, @gaearon",
+  "license": "ISC"
+}
