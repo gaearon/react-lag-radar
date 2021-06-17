@@ -2,7 +2,7 @@
 
 [Lag Radar](https://mobz.github.io/lag-radar/) developed by [Ben Birch](https://github.com/mobz), wrapped into a React component for convenience.
 
-You can use it in development to track whether your app is responsive or is dropping frames. Particularly neat for demos of [React 18 `startTransition`](https://github.com/reactwg/react-18/discussions/41).
+You can use it in development to track whether your app is responsive or is dropping frames. Particularly neat for demos of [React 18 `startTransition`](https://github.com/reactwg/react-18/discussions/41). For example, see [this demo](https://swizec.com/blog/a-better-react-18-starttransition-demo/).
 
 (Note: React 18 is still in alpha and [will be for a while](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html).)
 
